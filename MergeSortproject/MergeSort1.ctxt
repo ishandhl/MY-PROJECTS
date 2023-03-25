@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSort1
+comment1.params=al
+comment1.target=java.util.ArrayList\ getInput(java.util.ArrayList)
+comment2.params=al
+comment2.target=void\ getOutput(java.util.ArrayList)
+comment3.params=al\ beg\ mid\ end
+comment3.target=void\ merge(java.util.ArrayList,\ int,\ int,\ int)
+comment4.params=al\ beg\ end
+comment4.target=void\ sort(java.util.ArrayList,\ int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
