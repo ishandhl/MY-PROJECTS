@@ -1,0 +1,162 @@
+.w-100{
+    width: 100%;
+}
+.w-75{
+    width: 75%;
+}
+.w-50{
+    width: 50%;
+
+}
+.w-25{
+    width: 25%;
+}
+.navbar{
+    background-color: #10101A;
+    height: 100px;
+    border-radius: 50px;
+}
+.flex{
+    display: flex;
+    
+    
+}
+.nostyle {
+    list-style: none;
+    padding-right: 100px;
+    color: white;
+    
+}
+.content{
+    justify-content: end;
+    padding-top: 10px;
+
+}
+.pe{
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.border{
+    border: 1px solid white;
+}
+.navbarContent:hover{
+    color:lightgreen;
+    transform: scale(1.1);
+    cursor: pointer;
+
+    
+    
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-left: 30px;
+    margin-top: 10px;
+    
+}
+.logoImg{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+}
+.textwhite{
+    color: white;
+}
+.social{
+    padding-top: 25px;
+}
+.pr{
+padding-right: 10px;
+}
+.paddingtop{
+    padding-top: 55px;
+    padding-left: 15px;
+    font-size: large;
+}
+/* content css */
+.bodyContent{
+    height: 100%;
+    margin-top: 5px;
+    background-color: #10101A;
+    border-radius: 50px;
+}
+.ps{
+    padding-left: 25%;
+    padding-top: 15%;
+}
+.fs-4{
+    font-size: xx-large;
+    
+}
+.fs-2{
+    font-size: 70px;
+}
+.bold{
+    font-weight:bolder;
+}
+.fontstyle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fs-5{
+    font-size: large;
+}
+.pt{
+    padding-top: 20px;
+}
+.mt{
+    margin-top: 28px;
+}
+.btn,.btns{
+    width: 150px;
+    height: 40px;
+    background-color: #2FBF71;
+    border: none;
+   
+    box-shadow: 3px 0px 8px white;
+    
+}
+.btn:hover{
+    background-color: black;
+}
+.profile img{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    padding-left: 120px;
+    padding-top: 50px;
+}
+.pb{
+    padding-bottom: 30px;
+    
+}
+.underline{
+    border-bottom: 1px solid white;
+}
+.client{
+    padding-left: 45%;
+    padding-top: 8%;
+}
+.clientImg img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 50%;
+
+}
+.clientImg{
+    height: 60px;
+    width: 60px;
+}
+.footerContent:hover{
+    cursor: pointer;
+    color: lightgreen;
+}
+.copyright{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+.nostyle a{
+    text-decoration: none;
+    color: white;
+}
